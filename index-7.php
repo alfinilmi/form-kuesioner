@@ -14,7 +14,7 @@
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-  <link rel="icon" href="img/icon.png" type="image/x-icon"/>
+  <link rel="icon" href="img/icon2.png" type="image/x-icon"/>
 
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
@@ -46,8 +46,8 @@
         <!-- Begin Page Content -->
         <div class="container-fluid col-10">
           <!-- Content Row -->
+        <form action="addBtnSubmit.php" method="post">
           <div class="row">
-            <form>
                 <div class="col-12 mb-4">
                     <div class="card border-left-primary h-100 py-2">
                         <div class="card-body">
@@ -90,10 +90,10 @@
                         </div>
                     </div>
                 </div>
+              </div>
+              <a href="index-6.php" class="btn btn-secondary mb-4 mr-2">Back</a>
+              <button type="submit" class="btn btn-primary mb-4">Submit</button>
             </form>
-        </div>
-        <a href="index-6.html"><button type="submit" class="btn btn-secondary mb-4 mr-2">Back</button></a>
-        <a href="index-end.html"><button type="submit" class="btn btn-primary mb-4">Submit</button></a>
           <!-- Content Row -->
         </div>
         <!-- /.container-fluid -->

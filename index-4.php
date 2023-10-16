@@ -14,7 +14,7 @@
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-  <link rel="icon" href="img/icon.png" type="image/x-icon"/>
+  <link rel="icon" href="img/icon2.png" type="image/x-icon"/>
 
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
@@ -53,7 +53,7 @@
                         <div class="card-body">
                             <div class="row no-gutters align-items-center">
                                 <div>
-                                    Kepuasan setelah menggunakan aplikasi <i>mobile banking</i> <br>
+                                    Pengalaman Ketika Menggunakan Aplikasi <br>
                                     <b>Skala:</b> <br>
                                     1 = Sangat tidak setuju <br>
                                     5 = Sangat setuju
@@ -68,7 +68,7 @@
                 <div class="card-body">
                     <div class="form-group">
                         <label>
-                            <b>Secara keseluruhan, saya merasa senang dengan pengalaman menggunakan aplikasi mobile banking ini</b>
+                            <b>Ketika menggunakan aplikasi mobile banking, saya dapat mengontrol aktivitas sesuai pilihan saya</b>
                         </label> <br>
                         <label class="mr-3 text-muted">Sangat tidak setuju</label>
                         <div class="form-check form-check-inline">
@@ -94,7 +94,7 @@
                 <div class="card-body">
                     <div class="form-group">
                         <label>
-                            <b>Aplikasi mobile banking mudah digunakan</b>
+                            <b>Saat menggunakan aplikasi mobile banking, saya merasa semuanya terkendali dan diputuskan oleh saya</b>
                         </label> <br>
                         <label class="mr-3 text-muted">Sangat tidak setuju</label>
                         <div class="form-check form-check-inline">
@@ -120,7 +120,7 @@
                 <div class="card-body">
                     <div class="form-group">
                         <label>
-                            <b>Saya puas dengan keseluruhan kinerja aplikasi mobile banking ini</b>
+                            <b>Saya sangat tertarik dengan layanan dan pilihan yang diberikan saat menggunakan aplikasi mobile banking ini</b>
                         </label> <br>
                         <label class="mr-3 text-muted">Sangat tidak setuju</label>
                         <div class="form-check form-check-inline">
@@ -146,7 +146,111 @@
                 <div class="card-body">
                     <div class="form-group">
                         <label>
-                            <b>Keputusan saya untuk menggunakan aplikasi mobile banking ini merupakan keputusan yang bijak</b>
+                            <b>Saya sangat fokus pada layanan yang diberikan saat menggunakan aplikasi mobile banking</b>
+                        </label> <br>
+                        <label class="mr-3 text-muted">Sangat tidak setuju</label>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option1">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <label class="text-muted">Sangat setuju</label>
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-4">
+                <div class="card-body">
+                    <div class="form-group">
+                        <label>
+                            <b>Saat menggunakan aplikasi mobile banking, saya merasa sangat asyik dengan aktivitas yang saya lakukan</b>
+                        </label> <br>
+                        <label class="mr-3 text-muted">Sangat tidak setuju</label>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option1">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <label class="text-muted">Sangat setuju</label>
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-4">
+                <div class="card-body">
+                    <div class="form-group">
+                        <label>
+                            <b>Menurut saya, pengalaman saat menggunakan aplikasi mobile banking bukan hanya transaksi online namun juga sebagai hiburan</b>
+                        </label> <br>
+                        <label class="mr-3 text-muted">Sangat tidak setuju</label>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option1">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <label class="text-muted">Sangat setuju</label>
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-4">
+                <div class="card-body">
+                    <div class="form-group">
+                        <label>
+                            <b>Karakter, ikon, dan gambar yang digunakan pada aplikasi mobile banking menarik perhatian saya.</b>
+                        </label> <br>
+                        <label class="mr-3 text-muted">Sangat tidak setuju</label>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option1">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radio-asw" value="option2">
+                        </div>
+                        <label class="text-muted">Sangat setuju</label>
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-4">
+                <div class="card-body">
+                    <div class="form-group">
+                        <label>
+                            <b>Menggunakan aplikasi mobile banking ini membuat saya merasa senang karena mudah digunakan</b>
                         </label> <br>
                         <label class="mr-3 text-muted">Sangat tidak setuju</label>
                         <div class="form-check form-check-inline">
@@ -169,9 +273,9 @@
                 </div>
             </div>
             </form>
-        </div>
-        <a href="index-4.html"><button type="submit" class="btn btn-secondary mb-4 mr-2">Back</button></a>
-        <a href="index-6.html"><button type="submit" class="btn btn-primary mb-4">Next</button></a>
+            <a href="index-3.php"><button type="submit" class="btn btn-secondary mb-4 mr-2">Back</button></a>
+            <a href="index-5.php"><button type="submit" class="btn btn-primary mb-4">Next</button></a>
+          </div>
           <!-- Content Row -->
         </div>
         <!-- /.container-fluid -->

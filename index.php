@@ -87,7 +87,7 @@
             </div>
             </form>
             <!-- <button type="submit" class="btn btn-secondary mb-4 mr-2">Back</button> -->
-            <a href="index-2.html"><button type="submit" class="btn btn-primary mb-4">Next</button></a>
+            <a href="index-2.php"><button type="submit" class="btn btn-primary mb-4">Next</button></a>
           </div>
           <!-- Content Row -->
         </div>

@@ -14,7 +14,7 @@
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-  <link rel="icon" href="img/icon.png" type="image/x-icon"/>
+  <link rel="icon" href="img/icon2.png" type="image/x-icon"/>
 
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
@@ -53,7 +53,7 @@
                         <div class="card-body">
                             <div class="row no-gutters align-items-center">
                                 <div>
-                                    Apakah Anda akan terus menggunakan aplikasi mobile banking? <br>
+                                    Kepuasan setelah menggunakan aplikasi <i>mobile banking</i> <br>
                                     <b>Skala:</b> <br>
                                     1 = Sangat tidak setuju <br>
                                     5 = Sangat setuju
@@ -68,7 +68,7 @@
                 <div class="card-body">
                     <div class="form-group">
                         <label>
-                            <b>Saya berniat untuk terus menggunakan aplikasi mobile banking daripada menghentikan penggunaannya</b>
+                            <b>Secara keseluruhan, saya merasa senang dengan pengalaman menggunakan aplikasi mobile banking ini</b>
                         </label> <br>
                         <label class="mr-3 text-muted">Sangat tidak setuju</label>
                         <div class="form-check form-check-inline">
@@ -94,7 +94,7 @@
                 <div class="card-body">
                     <div class="form-group">
                         <label>
-                            <b>Saya akan merekomendasikan orang lain untuk menggunakan aplikasi mobile banking</b>
+                            <b>Aplikasi mobile banking mudah digunakan</b>
                         </label> <br>
                         <label class="mr-3 text-muted">Sangat tidak setuju</label>
                         <div class="form-check form-check-inline">
@@ -120,7 +120,7 @@
                 <div class="card-body">
                     <div class="form-group">
                         <label>
-                            <b>Saya akan tetap menggunakan aplikasi mobile banking secara teratur seperti yang saya lakukan sekarang</b>
+                            <b>Saya puas dengan keseluruhan kinerja aplikasi mobile banking ini</b>
                         </label> <br>
                         <label class="mr-3 text-muted">Sangat tidak setuju</label>
                         <div class="form-check form-check-inline">
@@ -146,7 +146,7 @@
                 <div class="card-body">
                     <div class="form-group">
                         <label>
-                            <b>Saya akan selalu mencoba menggunakan aplikasi mobile banking dalam kehidupan sehari-hari</b>
+                            <b>Keputusan saya untuk menggunakan aplikasi mobile banking ini merupakan keputusan yang bijak</b>
                         </label> <br>
                         <label class="mr-3 text-muted">Sangat tidak setuju</label>
                         <div class="form-check form-check-inline">
@@ -170,8 +170,8 @@
             </div>
             </form>
         </div>
-        <a href="index-5.html"><button type="submit" class="btn btn-secondary mb-4 mr-2">Back</button></a>
-        <a href="index-7.html"><button type="submit" class="btn btn-primary mb-4">Next</button></a>
+        <a href="index-4.php"><button type="submit" class="btn btn-secondary mb-4 mr-2">Back</button></a>
+        <a href="index-6.php"><button type="submit" class="btn btn-primary mb-4">Next</button></a>
           <!-- Content Row -->
         </div>
         <!-- /.container-fluid -->
